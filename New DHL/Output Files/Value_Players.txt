@@ -1,0 +1,41 @@
+Value Goalies
+
+
+Value Centers 
+
+Brock Nelson - NYI [97.8, 3700]
+Casey Cizikas - NYI [86.3, 3000]
+Tyler Bozak - TOR [76.7, 4500]
+Nick Shore - LA [75.2, 3100]
+Lars Eller - WAS [72.7, 3300]
+Matt Duchene - COL [71.2, 4900]
+Adam Henrique - NJ [68.9, 3800]
+Mikael Backlund - CGY [67.7, 4300]
+Tyson Jost - COL [61.0, 3000]
+Antoine Vermette - ANH [58.5, 3900]
+
+Value Wingers 
+
+Josh Leivo - TOR [136.0, 3000]
+Jaromir Jagr - CGY [111.8, 3400]
+Sven Andrighetto - COL [106.8, 3700]
+Gabriel Landeskog - COL [96.2, 3900]
+Anders Lee - NYI [95.7, 4900]
+Kris Versteeg - CGY [89.5, 4200]
+Tom Kuhnhackl - PIT [89.4, 3100]
+Connor Brown - TOR [87.1, 3500]
+Mikko Rantanen - COL [83.8, 4500]
+Josh Bailey - NYI [80.5, 4100]
+
+Value Defenceman
+
+John Moore - NJ [117.3, 3000]
+Francois Beauchemin - ANH [106.9, 3200]
+Zdeno Chara - BOS [100.0, 3800]
+Adam Pelech - NYI [93.4, 2900]
+Michael Stone - CGY [89.0, 3000]
+Justin Schultz - PIT [88.9, 4500]
+Calvin de Haan - NYI [84.0, 3500]
+Brooks Orpik - WAS [82.3, 3000]
+Nick Leddy - NYI [77.4, 4600]
+Paul Postma - BOS [76.2, 2900]

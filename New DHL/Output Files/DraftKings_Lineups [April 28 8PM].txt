@@ -1,0 +1,2400 @@
+Lineup 1
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49800
+
+Projected Points: 42.87
+
+Lineup 2
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+LW, Rickard Rakell | Projected Points: 4.24 | Cost: 6000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49900
+
+Projected Points: 42.55
+
+Lineup 3
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 50000
+
+Projected Points: 42.52
+
+Lineup 4
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+LW, Jaden Schwartz | Projected Points: 4.19 | Cost: 6000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49900
+
+Projected Points: 42.5
+
+Lineup 5
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 50000
+
+Projected Points: 42.48
+
+Lineup 6
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49500
+
+Projected Points: 42.45
+
+Lineup 7
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 49900
+
+Projected Points: 42.41
+
+Lineup 8
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49900
+
+Projected Points: 42.37
+
+Lineup 9
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Adam Larsson | Projected Points: 2.45 | Cost: 3200
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49600
+
+Projected Points: 42.28
+
+Lineup 10
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+RW, Jakob Silfverberg | Projected Points: 3.92 | Cost: 5700
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49600
+
+Projected Points: 42.23
+
+Lineup 11
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49000
+
+Projected Points: 42.21
+
+Lineup 12
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Oscar Klefbom | Projected Points: 3.99 | Cost: 5100
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 49400
+
+Projected Points: 42.19
+
+Lineup 13
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Mark Letestu | Projected Points: 2.7 | Cost: 3700
+
+Team Cost: 50000
+
+Projected Points: 42.18
+
+Lineup 14
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Ryan Kesler | Projected Points: 3.84 | Cost: 5800
+
+Team Cost: 49700
+
+Projected Points: 42.15
+
+Lineup 15
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Kesler | Projected Points: 3.84 | Cost: 5800
+
+Team Cost: 49900
+
+Projected Points: 42.15
+
+Lineup 16
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+LW, Rickard Rakell | Projected Points: 4.24 | Cost: 6000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49600
+
+Projected Points: 42.13
+
+Lineup 17
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+LW, Jaden Schwartz | Projected Points: 4.19 | Cost: 6000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49600
+
+Projected Points: 42.08
+
+Lineup 18
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Oscar Klefbom | Projected Points: 3.99 | Cost: 5100
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49800
+
+Projected Points: 42.06
+
+Lineup 19
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Rickard Rakell | Projected Points: 4.24 | Cost: 6000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 50000
+
+Projected Points: 42.05
+
+Lineup 20
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Cam Fowler | Projected Points: 3.66 | Cost: 5200
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Mark Letestu | Projected Points: 2.7 | Cost: 3700
+
+Team Cost: 49900
+
+Projected Points: 42.05
+
+Lineup 21
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Oscar Klefbom | Projected Points: 3.99 | Cost: 5100
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49900
+
+Projected Points: 42.04
+
+Lineup 22
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Andrej Sekera | Projected Points: 3.25 | Cost: 4200
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+LW, Alexander Steen | Projected Points: 3.52 | Cost: 4900
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49600
+
+Projected Points: 42.04
+
+Lineup 23
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Mark Letestu | Projected Points: 2.7 | Cost: 3700
+
+Team Cost: 50000
+
+Projected Points: 42.03
+
+Lineup 24
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 50000
+
+Projected Points: 42.01
+
+Lineup 25
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Andrej Sekera | Projected Points: 3.25 | Cost: 4200
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49300
+
+Projected Points: 42.0
+
+Lineup 26
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+RW, Corey Perry | Projected Points: 3.69 | Cost: 5500
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49400
+
+Projected Points: 42.0
+
+Lineup 27
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Jaden Schwartz | Projected Points: 4.19 | Cost: 6000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 50000
+
+Projected Points: 42.0
+
+Lineup 28
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 49600
+
+Projected Points: 41.99
+
+Lineup 29
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Alexander Steen | Projected Points: 3.52 | Cost: 4900
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49700
+
+Projected Points: 41.99
+
+Lineup 30
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Adam Larsson | Projected Points: 2.45 | Cost: 3200
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Kesler | Projected Points: 3.84 | Cost: 5800
+
+Team Cost: 50000
+
+Projected Points: 41.98
+
+Lineup 31
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 50000
+
+Projected Points: 41.97
+
+Lineup 32
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Oscar Klefbom | Projected Points: 3.99 | Cost: 5100
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Mark Letestu | Projected Points: 2.7 | Cost: 3700
+
+Team Cost: 49300
+
+Projected Points: 41.96
+
+Lineup 33
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Andrej Sekera | Projected Points: 3.25 | Cost: 4200
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 50000
+
+Projected Points: 41.96
+
+Lineup 34
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Adam Larsson | Projected Points: 2.45 | Cost: 3200
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+LW, Rickard Rakell | Projected Points: 4.24 | Cost: 6000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49700
+
+Projected Points: 41.96
+
+Lineup 35
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49400
+
+Projected Points: 41.95
+
+Lineup 36
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49600
+
+Projected Points: 41.95
+
+Lineup 37
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Oscar Klefbom | Projected Points: 3.99 | Cost: 5100
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 49800
+
+Projected Points: 41.93
+
+Lineup 38
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Leon Draisaitl | Projected Points: 4.89 | Cost: 6800
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Mark Letestu | Projected Points: 2.7 | Cost: 3700
+
+Team Cost: 49900
+
+Projected Points: 41.92
+
+Lineup 39
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Adam Larsson | Projected Points: 2.45 | Cost: 3200
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+LW, Jaden Schwartz | Projected Points: 4.19 | Cost: 6000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49700
+
+Projected Points: 41.91
+
+Lineup 40
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Jori Lehtera | Projected Points: 2.0 | Cost: 3400
+
+Team Cost: 50000
+
+Projected Points: 41.9
+
+Lineup 41
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Leon Draisaitl | Projected Points: 4.89 | Cost: 6800
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 50000
+
+Projected Points: 41.86
+
+Lineup 42
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Cam Fowler | Projected Points: 3.66 | Cost: 5200
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 49500
+
+Projected Points: 41.86
+
+Lineup 43
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+RW, Jakob Silfverberg | Projected Points: 3.92 | Cost: 5700
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49800
+
+Projected Points: 41.84
+
+Lineup 44
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Leon Draisaitl | Projected Points: 4.89 | Cost: 6800
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 49600
+
+Projected Points: 41.84
+
+Lineup 45
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 49600
+
+Projected Points: 41.84
+
+Lineup 46
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+LW, Alexander Steen | Projected Points: 3.52 | Cost: 4900
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 48800
+
+Projected Points: 41.83
+
+Lineup 47
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Adam Larsson | Projected Points: 2.45 | Cost: 3200
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 49700
+
+Projected Points: 41.82
+
+Lineup 48
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 49700
+
+Projected Points: 41.82
+
+Lineup 49
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 49900
+
+Projected Points: 41.82
+
+Lineup 50
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+RW, Jakob Silfverberg | Projected Points: 3.92 | Cost: 5700
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49300
+
+Projected Points: 41.81
+
+Lineup 51
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Andrej Sekera | Projected Points: 3.25 | Cost: 4200
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Mark Letestu | Projected Points: 2.7 | Cost: 3700
+
+Team Cost: 49800
+
+Projected Points: 41.8
+
+Lineup 52
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 48500
+
+Projected Points: 41.79
+
+Lineup 53
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Adam Larsson | Projected Points: 2.45 | Cost: 3200
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49700
+
+Projected Points: 41.78
+
+Lineup 54
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49700
+
+Projected Points: 41.78
+
+Lineup 55
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Oscar Klefbom | Projected Points: 3.99 | Cost: 5100
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 48900
+
+Projected Points: 41.77
+
+Lineup 56
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Kesler | Projected Points: 3.84 | Cost: 5800
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49900
+
+Projected Points: 41.76
+
+Lineup 57
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49200
+
+Projected Points: 41.75
+
+Lineup 58
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Patrik Berglund | Projected Points: 2.26 | Cost: 3500
+
+Team Cost: 49800
+
+Projected Points: 41.74
+
+Lineup 59
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+RW, Corey Perry | Projected Points: 3.69 | Cost: 5500
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 50000
+
+Projected Points: 41.74
+
+Lineup 60
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Ryan Kesler | Projected Points: 3.84 | Cost: 5800
+
+Team Cost: 49400
+
+Projected Points: 41.73
+
+Lineup 61
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+RW, Jakob Silfverberg | Projected Points: 3.92 | Cost: 5700
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49700
+
+Projected Points: 41.73
+
+Lineup 62
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Leon Draisaitl | Projected Points: 4.89 | Cost: 6800
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 49500
+
+Projected Points: 41.73
+
+Lineup 63
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Cam Fowler | Projected Points: 3.66 | Cost: 5200
+
+RW, Leon Draisaitl | Projected Points: 4.89 | Cost: 6800
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49900
+
+Projected Points: 41.73
+
+Lineup 64
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Cam Fowler | Projected Points: 3.66 | Cost: 5200
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49900
+
+Projected Points: 41.73
+
+Lineup 65
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Oscar Klefbom | Projected Points: 3.99 | Cost: 5100
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 48900
+
+Projected Points: 41.73
+
+Lineup 66
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Kyle Brodziak | Projected Points: 1.71 | Cost: 3100
+
+Team Cost: 49800
+
+Projected Points: 41.72
+
+Lineup 67
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Andrej Sekera | Projected Points: 3.25 | Cost: 4200
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49500
+
+Projected Points: 41.72
+
+Lineup 68
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Cam Fowler | Projected Points: 3.66 | Cost: 5200
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 50000
+
+Projected Points: 41.71
+
+Lineup 69
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Leon Draisaitl | Projected Points: 4.89 | Cost: 6800
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 50000
+
+Projected Points: 41.71
+
+Lineup 70
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Oscar Klefbom | Projected Points: 3.99 | Cost: 5100
+
+D, Andrej Sekera | Projected Points: 3.25 | Cost: 4200
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 49900
+
+Projected Points: 41.7
+
+Lineup 71
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Mark Letestu | Projected Points: 2.7 | Cost: 3700
+
+Team Cost: 49100
+
+Projected Points: 41.7
+
+Lineup 72
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Oscar Klefbom | Projected Points: 3.99 | Cost: 5100
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Patrik Berglund | Projected Points: 2.26 | Cost: 3500
+
+Team Cost: 50000
+
+Projected Points: 41.68
+
+Lineup 73
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Oscar Klefbom | Projected Points: 3.99 | Cost: 5100
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Mark Letestu | Projected Points: 2.7 | Cost: 3700
+
+Team Cost: 49500
+
+Projected Points: 41.68
+
+Lineup 74
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Rickard Rakell | Projected Points: 4.24 | Cost: 6000
+
+LW, Alexander Steen | Projected Points: 3.52 | Cost: 4900
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49800
+
+Projected Points: 41.67
+
+Lineup 75
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Oscar Klefbom | Projected Points: 3.99 | Cost: 5100
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+LW, Alexander Steen | Projected Points: 3.52 | Cost: 4900
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49900
+
+Projected Points: 41.66
+
+Lineup 76
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Kesler | Projected Points: 3.84 | Cost: 5800
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49800
+
+Projected Points: 41.65
+
+Lineup 77
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Oscar Klefbom | Projected Points: 3.99 | Cost: 5100
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 50000
+
+Projected Points: 41.65
+
+Lineup 78
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Adam Larsson | Projected Points: 2.45 | Cost: 3200
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 50000
+
+Projected Points: 41.65
+
+Lineup 79
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Alexander Steen | Projected Points: 3.52 | Cost: 4900
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 49900
+
+Projected Points: 41.64
+
+Lineup 80
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Adam Larsson | Projected Points: 2.45 | Cost: 3200
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+RW, Jakob Silfverberg | Projected Points: 3.92 | Cost: 5700
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49400
+
+Projected Points: 41.64
+
+Lineup 81
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Rickard Rakell | Projected Points: 4.24 | Cost: 6000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49500
+
+Projected Points: 41.63
+
+Lineup 82
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Cam Fowler | Projected Points: 3.66 | Cost: 5200
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Mark Letestu | Projected Points: 2.7 | Cost: 3700
+
+Team Cost: 49400
+
+Projected Points: 41.63
+
+Lineup 83
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Rickard Rakell | Projected Points: 4.24 | Cost: 6000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49700
+
+Projected Points: 41.63
+
+Lineup 84
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Oscar Klefbom | Projected Points: 3.99 | Cost: 5100
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49600
+
+Projected Points: 41.62
+
+Lineup 85
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Jaden Schwartz | Projected Points: 4.19 | Cost: 6000
+
+LW, Alexander Steen | Projected Points: 3.52 | Cost: 4900
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49800
+
+Projected Points: 41.62
+
+Lineup 86
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Kyle Brodziak | Projected Points: 1.71 | Cost: 3100
+
+Team Cost: 49700
+
+Projected Points: 41.61
+
+Lineup 87
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Oscar Klefbom | Projected Points: 3.99 | Cost: 5100
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Rickard Rakell | Projected Points: 4.24 | Cost: 6000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 49900
+
+Projected Points: 41.61
+
+Lineup 88
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Andrej Sekera | Projected Points: 3.25 | Cost: 4200
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 49400
+
+Projected Points: 41.61
+
+Lineup 89
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Cam Fowler | Projected Points: 3.66 | Cost: 5200
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Patrik Berglund | Projected Points: 2.26 | Cost: 3500
+
+Team Cost: 49700
+
+Projected Points: 41.61
+
+Lineup 90
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+RW, Corey Perry | Projected Points: 3.69 | Cost: 5500
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49600
+
+Projected Points: 41.61
+
+Lineup 91
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Cam Fowler | Projected Points: 3.66 | Cost: 5200
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 49900
+
+Projected Points: 41.6
+
+Lineup 92
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Leon Draisaitl | Projected Points: 4.89 | Cost: 6800
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49900
+
+Projected Points: 41.6
+
+Lineup 93
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Alexander Steen | Projected Points: 3.52 | Cost: 4900
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49900
+
+Projected Points: 41.6
+
+Lineup 94
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Antoine Vermette | Projected Points: 2.51 | Cost: 3300
+
+Team Cost: 49700
+
+Projected Points: 41.59
+
+Lineup 95
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Darnell Nurse | Projected Points: 2.62 | Cost: 3100
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Mark Letestu | Projected Points: 2.7 | Cost: 3700
+
+Team Cost: 49800
+
+Projected Points: 41.59
+
+Lineup 96
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+LW, Alexander Steen | Projected Points: 3.52 | Cost: 4900
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49800
+
+Projected Points: 41.59
+
+Lineup 97
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Mark Letestu | Projected Points: 2.7 | Cost: 3700
+
+Team Cost: 49000
+
+Projected Points: 41.59
+
+Lineup 98
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Alex Pietrangelo | Projected Points: 4.74 | Cost: 6200
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+RW, Vladimir Tarasenko | Projected Points: 5.99 | Cost: 7700
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Patrik Berglund | Projected Points: 2.26 | Cost: 3500
+
+Team Cost: 49800
+
+Projected Points: 41.59
+
+Lineup 99
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Kris Russell | Projected Points: 3.74 | Cost: 3700
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Jaden Schwartz | Projected Points: 4.19 | Cost: 6000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+C, Ryan Nugent-Hopkins | Projected Points: 3.48 | Cost: 4600
+
+Team Cost: 49500
+
+Projected Points: 41.58
+
+Lineup 100
+
+G, Jake Allen | Projected Points: 5.69 | Cost: 7800
+
+D, Hampus Lindholm | Projected Points: 3.04 | Cost: 3400
+
+D, Adam Larsson | Projected Points: 2.45 | Cost: 3200
+
+RW, Jordan Eberle | Projected Points: 4.8 | Cost: 4900
+
+RW, Patrick Eaves | Projected Points: 4.56 | Cost: 5900
+
+LW, Vladimir Sobotka | Projected Points: 4.4 | Cost: 3800
+
+LW, Milan Lucic | Projected Points: 4.4 | Cost: 5000
+
+C, Connor McDavid | Projected Points: 6.67 | Cost: 8100
+
+C, Ryan Getzlaf | Projected Points: 5.57 | Cost: 7200
+
+Team Cost: 49300
+
+Projected Points: 41.58
+

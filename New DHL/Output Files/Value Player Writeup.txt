@@ -1,0 +1,67 @@
+Value players are players that are likely to receive more fantasy points than other players that cost that same amount. Keep this in mind when adding these players to your lineup. Value players are not usually players that you should build your lineups around, however they will always leave more room in your lineup for premium players. If you're looking for a longer list of value players, check out the [cheat sheet][1]. Make sure to check that a player is in the starting lineup before adding them to your lineup.
+
+[1]: /cheat-sheet
+
+We are always looking to improve your fantasy experience. If you have any questions or suggestions we would love to hear from you on our [feedback page][0].
+
+# Low Cost Value Players
+
+## Today's Goalie:
+
+**John Gibson - ANH**
+
+Daily Hockey Lineups Value: **74.5**
+
+John Gibson has a home record of '' this season. Tonight he will be playing at home against the Edmonton Oilers. In his career against EDM, Gibson has a win rate of 57%, save percentage of 0.936, as well as a goals against average of 1.84.
+
+Alternative Goalies:
+
+## Today's Center:
+
+**Antoine Vermette - ANH**
+
+Line Number:
+
+Daily Hockey Lineups Value: **76.1**
+
+Antoine Vermette has 6 points in his last 10 games, which is good point production for a player that costs $3300 on DraftKings. Vermette will be playing against the Edmonton Oilers tonight at home. Against EDM, Vermette averages 0.57 points per game, as well as 1.85 shots per game.
+
+Alternative Centers:
+
+## Today's Winger:
+
+**Vladimir Sobotka - STL**
+
+Line Number:
+
+Daily Hockey Lineups Value: **115.8**
+
+Vladimir Sobotka has 1 points in his last 1 games, which is good point production for a player that costs $3800 on DraftKings. Sobotka will be playing against the Nashville Predators tonight at home. Against NSH, Sobotka averages 0.4 points per game, as well as 1.3 shots per game.
+
+Alternative Wingers:
+
+## Today's Defenceman:
+
+**Kris Russell - EDM**
+
+Line Number:
+
+Daily Hockey Lineups Value: **101.1**
+
+Kris Russell has 6 points in his last 10 games, which is good point production for a player that costs $3700 on DraftKings. Russell will be playing against the Anaheim Ducks tonight on the road. Against ANH, Russell averages 0.45 points per game, as well as 1.19 shots per game.
+
+Alternative Defenceman:
+
+## Today's Sample Lineup
+
+Would you like more lineups for different start times? Check out the [Cheat Sheet Page][2] to get started.
+
+**DraftKings XPM Lineup**
+
+**FanDuel XPM Lineup**
+
+Support DailyHockeyLineups.com by clicking the logo below, and creating an account!
+
+
+[0]: /feedback
+[2]: /cheat-sheet
